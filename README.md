@@ -133,3 +133,12 @@ make all
 # Enter parameters (e.g., time quantum for Round Robin)
 
 ```
+---
+
+## 🤵 Contributors
+
+| <img src="https://avatars.githubusercontent.com/salehahmed99" width="100px" alt="Saleh"> | <img src="https://avatars.githubusercontent.com/shady-2004" width="100px" alt="Shady"> | <img src="https://avatars.githubusercontent.com/OmarNabil005" width="100px" alt="Nabil"> | <img src="https://avatars.githubusercontent.com/mostafahassan04" width="100px" alt="Hassan"> |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Saleh Ahmed](https://github.com/salehahmed99/)                                            | [Shady Mohamed](https://github.com/OmarNabil005/)                                              | [Omar Nabil](https://github.com/im-saif)                                               | [Mostafa Hassan](https://github.com/mostafahassan04) |
+
+
